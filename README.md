@@ -10,7 +10,9 @@
 ## 1.  Exécution du programme.
 
 
-Afin d'éxécuter le programme, il vous suffit de lancer la commande `java demenagePack.TestDem` **La JRE est nécéssaire**
+Afin d'éxécuter le programme, il vous suffit de lancer la commande `java demenagePack.TestDem` à la racine du projet.
+
+**La JRE est nécéssaire**
 
 ## 2.  Données à fournir :
 
